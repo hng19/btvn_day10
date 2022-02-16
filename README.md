@@ -1,4 +1,4 @@
-# btvn_day10
+
 # Function
 ## Function là gì
 Function (hàm) là tập hợp các đoạn code dùng để thực hiện một tác vụ cụ thể nào đó.
